@@ -1,3 +1,4 @@
+package chapter_3;
 
 public class CashRegister {
 	public static final double QUARTER_VALUE = 0.25;
