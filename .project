@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>COMP47500</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>LAB 1</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/UCD/Demonstrator/Java/LAB%201</locationURI>
+		</link>
+		<link>
+			<name>TUTORIAL 1</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/UCD/Demonstrator/Java/TUTORIAL%201</locationURI>
+		</link>
+		<link>
+			<name>TUTORIAL 3</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/OneDrive/UCD/Demonstrator/Java/Tutorial/TUTORIAL%203</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
