@@ -1,5 +1,9 @@
 package chapter_3;
 
+/**
+ * A cash register totals up sales and computes change due.
+ */
+
 public class CashRegister {
 	public static final double QUARTER_VALUE = 0.25;
 	public static final double DIME_VALUE = 0.1;
@@ -8,6 +12,11 @@ public class CashRegister {
 
 	private double purchase;
 	private double payment;
+
+	public static double Add_two(double x, double y) {
+		return x + y;
+
+	}
 
 	/**
 	 * Constructor a cash register with no money in it

@@ -1,0 +1,13 @@
+
+All Vehicles Information
+
+Cars=======================
+"Dan" 20 8 20 4
+"Lily" 50 9 50 2
+
+Trucks=======================
+"Jackie" 30 12 30 30
+"Willy" 40 10 40 60
+
+All Vehicles Information=======================
+
